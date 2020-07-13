@@ -1,0 +1,31 @@
+/* SuperHi Homework # 1 */
+/* Stylesheet, v1.0 */
+/* Last Edited by: Nicholas Smits, 07/12/2020 @ 11:15pm */
+
+/* Layout Styles */
+section {
+    width: 100%; 
+    height: 100vh; 
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed;
+}
+footer {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    width: 40px;
+    margin-left: -20px;
+}
+  
+/* Section Styles */
+.pen {background-image: url(./resources/the-pen.svg);}
+.mighter {background-image: url(./resources/is-mightier.svg);}
+.than {background-image: url(./resources/than.svg);}
+.sword {background-image: url(./resources/the-sword.svg)}
+.summary {background-image: url(./resources/end.svg);}
+
+/* Recurring Styles */
+.bg_white {background-color: #ffffff;}
+.bg_black {background-color: #000000;}
+.bg_green {background-color: #00f10a;}
