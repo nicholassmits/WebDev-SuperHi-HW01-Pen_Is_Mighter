@@ -1,6 +1,6 @@
 /* SuperHi - Homework # 1 - Pen is Mighter */
 /* Stylesheet, v1.0 */
-/* Last Edited by: Nicholas Smits, 07/12/2020 @ 11:15pm */
+/* Last Edited by: Nicholas Smits, 07/18/2020 @ 11:15pm */
 
 /* Layout Styles */
 section {
@@ -19,11 +19,11 @@ footer {
 }
   
 /* Section Styles */
-.pen {background-image: url(./resources/the-pen.svg);}
-.mighter {background-image: url(./resources/is-mightier.svg);}
-.than {background-image: url(./resources/than.svg);}
-.sword {background-image: url(./resources/the-sword.svg)}
-.summary {background-image: url(./resources/end.svg);}
+.pen {background-image: url(./the-pen.svg);}
+.mighter {background-image: url(./is-mightier.svg);}
+.than {background-image: url(./than.svg);}
+.sword {background-image: url(./the-sword.svg)}
+.summary {background-image: url(./end.svg);}
 
 /* Recurring Styles */
 .bg_white {background-color: #ffffff;}
